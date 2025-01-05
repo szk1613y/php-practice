@@ -158,5 +158,4 @@ echo "\n";
 $grade = 'null';
 echo evaluateGrade($grade);
 
-
 ?>

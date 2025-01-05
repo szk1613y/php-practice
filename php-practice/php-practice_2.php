@@ -72,5 +72,4 @@ $date2 = new Datetime('1992-04-25');
 $diff = $date1->diff($date2);
 echo 'あの日から'. $diff->format('%a'). '日経過しました。';
 
-
 ?>
